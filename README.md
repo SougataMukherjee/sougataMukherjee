@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React testing Library,**
+- 🌱 I’m pationate to learning **new technology**
 
 - 📫 How to reach me **sougatamukherjee47@gmail.com**
 
