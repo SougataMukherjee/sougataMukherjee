@@ -26,10 +26,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/>
 </a>
 
-<!-- React Native -->
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</a>
+
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
