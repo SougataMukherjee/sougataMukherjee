@@ -96,7 +96,7 @@
 
   <!-- Strapi -->
   <a href="https://strapi.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" alt="Strapi" width="40" height="40"/>
+    <img src="https://logo.svgcdn.com/l/strapi-icon.svg" alt="Strapi" width="40" height="40"/>
   </a>
 
 
